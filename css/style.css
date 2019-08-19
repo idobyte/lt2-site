@@ -204,7 +204,6 @@ header{
 	display: inline-block;
 	*display: inline;
 	zoom:1;
-	margin: 0 0 0 10px;
 }
 #line{
 		margin: 0 0 0 80px;
@@ -216,12 +215,10 @@ header{
 	margin-bottom: 10px;
 }
 #ourserv article{
-	width: 275px;
 	display: inline-block;
 	*display: inline;
 	zoom:1;
 	vertical-align: top;
-	margin: 0 38px 0 0;
 }
 #ourserv article h1, #latestp article h1{
 	font-family: LeagueGothic, sans-serif;
@@ -272,7 +269,6 @@ header{
 	display: inline-block;
 	*display: inline;
 	zoom:1;
-	margin: 0 0 0 10px;
 }
 #sline{
 	margin: 20px 0 10px 80px;
@@ -284,7 +280,6 @@ header{
 	margin-bottom: 10px;
 }
 #latestp article{
-	width: 210px;
 	display: inline-block;
 	*display: inline;
 	zoom:1;
@@ -371,7 +366,6 @@ header{
 	margin: 0 0 20px 0;
 }
 #cat, #archives, #contact #sidebar  #cat, #contact #sidebar #archives{
-	width: 130px;
 	display: inline-block;
 	vertical-align: top;
 	*display: inline;
