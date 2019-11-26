@@ -1,5 +1,0 @@
-					<article class="lastarticle">
-						<h1>Mastercraft Deal</h1>
-						<img src="images/mcraft.jpg" style="width:500px;height:140px;" alt="" />
-						
-					</article>
