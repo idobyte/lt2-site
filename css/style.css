@@ -449,7 +449,7 @@ input[type="submit"]:active{
 	color: #b82924;
 }
 .mg{ /*just for examples, do not use this class*/
-	margin: 8px 0 12px 0;
+	margin: 8px 0 12px;
 }
 #fullwidth section a, #singlepost section a{
 	text-decoration: underline;
