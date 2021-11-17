@@ -75,7 +75,7 @@ p{
 	width: 950px;
 	margin: 16px auto;
 	background-color: #121212;
-	padding: 20px 20px;
+	padding: 20px;
 	box-shadow: 0 4px 6px #000;
 }
 
@@ -312,7 +312,7 @@ header{
 }
 #articles, #contactpost{
 	width: 600px;
-	margin:0 0 40px 0;
+	margin:0 0 40px ;
 }
 #blog li, #contact li{
 	list-style-type: square;
@@ -339,7 +339,7 @@ header{
 	letter-spacing: 0.2px;
 	margin-bottom: 12px;
 	background-color: #0a0a0a;
-	padding: 4px 8px 4px 8px;
+	padding: 4px 8px ;
 	font-family: source, sans-serif;
 	text-transform: none;
 }
@@ -370,7 +370,7 @@ header{
 	text-decoration: underline;
 }
 #blog aside, #contact #sidebar aside{
-	margin: 0 0 20px 0;
+	margin: 0 0 20px ;
 }
 #cat, #archives, #contact #sidebar  #cat, #contact #sidebar #archives{
 	display: inline-block;
