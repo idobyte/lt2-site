@@ -139,7 +139,7 @@ header h2{
 #logo, nav, nav li{
 	display: inline-block;
 	vertical-align: top;
-	*display: inline;
+	display: inline;
 	zoom:1;
 }
 #logo{
@@ -209,7 +209,7 @@ header{
 }
 #line h1, .dline{
 	display: inline-block;
-	*display: inline;
+	display: inline;
 	zoom:1;
 }
 #line{
@@ -223,7 +223,7 @@ header{
 }
 #ourserv article{
 	display: inline-block;
-	*display: inline;
+	display: inline;
 	zoom:1;
 	vertical-align: top;
 }
@@ -274,7 +274,7 @@ header{
 }
 #sline h1, .sdline{
 	display: inline-block;
-	*display: inline;
+	display: inline;
 	zoom:1;
 }
 #sline{
@@ -288,7 +288,7 @@ header{
 }
 #latestp article{
 	display: inline-block;
-	*display: inline;
+	display: inline;
 	zoom:1;
 	margin-right: 20px;
 }
@@ -300,7 +300,7 @@ header{
 #articles, #sidebar{
 	display: inline-block;
 	vertical-align: top;
-	*display: inline;
+	display: inline;
 	zoom:1;
 }
 #blog section, #contact section{
@@ -375,7 +375,7 @@ header{
 #cat, #archives, #contact #sidebar  #cat, #contact #sidebar #archives{
 	display: inline-block;
 	vertical-align: top;
-	*display: inline;
+	display: inline;
 	zoom:1;
 }
 .continue{
@@ -385,7 +385,7 @@ header{
 #singlepost, #sidebar, #contactpost{
 	display: inline-block;
 	vertical-align: top;
-	*display: inline;
+	display: inline;
 	zoom:1;
 }
 #singlepost{
