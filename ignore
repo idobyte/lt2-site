@@ -1,0 +1,6 @@
+<!--
+if (screen.width <= 990) {
+document.location = "mobile/index.html";
+}
+
+//-->
